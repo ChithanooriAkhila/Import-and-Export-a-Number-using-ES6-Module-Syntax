@@ -1,2 +1,2 @@
-const number = 5;
+const number = 25;
 export default number;
